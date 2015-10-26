@@ -8,3 +8,4 @@ You can draw simple, different colored shapes to the screen. You can also save y
 Quickly compile by using the make file.
 
 #Screenshots
+![my screenshot](screenshot.png)
